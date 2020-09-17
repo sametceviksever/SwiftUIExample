@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3321DB79-688C-4FFE-86D6-F7D1010651FF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B1931132-5A8F-452A-B4CD-360DD0D97478"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Sw&#x131;ftUIExample/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "B1931132-5A8F-452A-B4CD-360DD0D97478 - 41bce9d3a2f4919d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 (Swift.Array&lt;Sw&#x131;ftUIExample.Movie&gt;) -&gt; () in Sw&#x131;ftUIExample.ContentView.body.getter : some"
+                  moduleName = "Sw&#x131;ftUIExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sametceviksever/Desktop/Projects/Sw%C4%B1ftUIExample/Sw%C4%B1ftUIExample/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "B1931132-5A8F-452A-B4CD-360DD0D97478 - 483bad7af57609dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Sw&#x131;ftUIExample.Movie) -&gt; Sw&#x131;ftUIExample.MovieCellModel in closure #3 (Swift.Array&lt;Sw&#x131;ftUIExample.Movie&gt;) -&gt; () in Sw&#x131;ftUIExample.ContentView.body.getter : some"
+                  moduleName = "Sw&#x131;ftUIExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sametceviksever/Desktop/Projects/Sw%C4%B1ftUIExample/Sw%C4%B1ftUIExample/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "23">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
